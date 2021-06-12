@@ -1,10 +1,12 @@
 # Pytorch-implementation-twitter-sentiment-analysis-using-RNN
+
+## Introduction
 The automated process of recognition and Categorization of instinctive information in text script is called Sentiment Analysis. And such categorization of positive tweets from negative tweets by machine learning models for Classification, text mining, text analysis and data visualization through Natural Language processing is called Twitter Sentiment Analysis.
 ![image](https://user-images.githubusercontent.com/49767657/121781346-dbb30000-cbc1-11eb-809a-a016d7a6092f.png)
 
-**To Run this Project**
-1. Please download the dataset from this link and keep it in main directory: https://www.kaggle.com/kazanova/sentiment140
-2. put the csv file in the working directory and mention the full in the data_config.json
+## To Run this Project
+1. Please download the dataset from this link and keep it in main directory: [Twitter Sentiment Dataset](https://www.kaggle.com/kazanova/sentiment140)
+2. Put the csv file in the working directory and mention the full in the data_config.json
 3. in data_config you need to provide :
 
 	i) *"dataset_full_path":(# full path of the main dataset)* \
@@ -30,6 +32,20 @@ The automated process of recognition and Categorization of instinctive informati
 	xi) *"epoch": "20" *
 
 **To change dataset/any parameters for training: project_config.json**
+
+## Experiment Details
+
+- epochs : 20
+- Optimizer- Adam Learning rate: 1e-3 
+- Loss function : BCElogisticloss
+- Train Acc: 99.72
+- Validation accuracy: 67.68
+- Test accuracy: 64.54 
+- Number of training examples: 10500 
+- Number of validation examples: 4500 Number of testing examples: 3962
+- Unique tokens in TEXT vocabulary: 18609
+- Unique tokens in LABEL vocabulary: 2
+- The model has 1,952,805 trainable parameters
 
 For the limitation of RAM I have taken **20000 samples** from the main dataset which achieved **99.23% accuracy** in the train dataset.
 The test accuracy is `~68% which can be improved by using more data/ training more number of epoch.
