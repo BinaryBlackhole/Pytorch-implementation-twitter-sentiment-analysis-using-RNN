@@ -1,0 +1,8 @@
+{
+	"dataset_full_path": "twiteer_dataset_main.csv",
+	"num_neg_labels": "10000",
+	"num_pos_labels": "10000",
+	"trainset_fullpath": "data/train.csv",
+	"testset_fullpath": "data/test.csv",
+	"num_training_sample": "15000"
+}
