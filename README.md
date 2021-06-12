@@ -52,7 +52,7 @@ The test accuracy is `~68% which can be improved by using more data/ training mo
 
 **Contributors**
 1. [Sagar Chakraborty](https://www.linkedin.com/in/binaryblackhole/)
-2. Akshata Kulkarni
+2. [Akshata Kulkarni](https://www.linkedin.com/in/akshata-kulkarni-3a0005161/)
 
 **References:**
 1. [Akurniawan-sentiment analysis](https://github.com/akurniawan/pytorch-sentiment-analysis) 
