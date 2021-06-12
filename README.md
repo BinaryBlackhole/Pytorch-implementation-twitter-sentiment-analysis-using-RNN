@@ -39,5 +39,5 @@ The test accuracy is `~68% which can be improved by using more data/ training mo
 2. Akshata Kulkarni
 
 **References:**
-https://github.com/akurniawan/pytorch-sentiment-analysis
+https://github.com/akurniawan/pytorch-sentiment-analysis \
 https://github.com/bentrevett/pytorch-sentiment-analysis
