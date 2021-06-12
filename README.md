@@ -51,9 +51,9 @@ For the limitation of RAM I have taken **20000 samples** from the main dataset w
 The test accuracy is `~68% which can be improved by using more data/ training more number of epoch.
 
 **Contributors**
-1. [Sagar Chakraborty] (https://binaryblackhole.github.io/)
+1. [Sagar Chakraborty](https://binaryblackhole.github.io/)
 2. Akshata Kulkarni
 
 **References:**
-1. [Akurniawan-sentiment analysis] (https://github.com/akurniawan/pytorch-sentiment-analysis) 
-2. [Bentrevett-sentiment analysis] (https://github.com/bentrevett/pytorch-sentiment-analysis)
+1. [Akurniawan-sentiment analysis](https://github.com/akurniawan/pytorch-sentiment-analysis) 
+2. [Bentrevett-sentiment analysis](https://github.com/bentrevett/pytorch-sentiment-analysis)
