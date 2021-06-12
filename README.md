@@ -30,7 +30,7 @@ The automated process of recognition and Categorization of instinctive informati
 "learning_rate": "1e-3",
 "epoch": "20"
 
-#to change dataset/any parameters for training: project_config.json
+#To change dataset/any parameters for training: project_config.json
 
 For the limitation of RAM I have taken 20000 samples from the main dataset which achieved 99.23% accuracy in the train dataset.
 The test accuracy is `~68% which can be improved by using more data/ training more number of epoch.
