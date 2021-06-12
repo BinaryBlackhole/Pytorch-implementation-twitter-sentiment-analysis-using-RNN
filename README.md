@@ -7,12 +7,12 @@ The automated process of recognition and Categorization of instinctive informati
 2. put the csv file in the working directory and mention the full in the data_config.json
 3. in data_config you need to provide :
 
-i) "dataset_full_path":(# full path of the main dataset) \n
-ii) "num_neg_labels": (# number of negetive sample the dataset should contain) \n
-iii)"num_pos_labels": (# number of positive samples the dataset should contain) \n
-iv) "trainset_fullpath": (# path to save the train.csv) \n
-v)  "testset_fullpath": (# path to save test.csv)      \n
-vi) "num_training_sample": (# number of training samples in train.csv) \n
+i) *"dataset_full_path":(# full path of the main dataset)* \
+ii) *"num_neg_labels": (# number of negetive sample the dataset should contain)* \
+iii)*"num_pos_labels": (# number of positive samples the dataset should contain)* \
+iv) *"trainset_fullpath": (# path to save the train.csv)* \
+v)  *"testset_fullpath": (# path to save test.csv)*      \
+vi) *"num_training_sample": (# number of training samples in train.csv)* \
 		
 4. run python data_processing.py. This will prepare the data by splitting into train and test.
 5. To run this project run : Python train.py . To run train.py you need to provide certain params in project_config.py:
