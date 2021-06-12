@@ -2,7 +2,7 @@
 
 ## Introduction
 The automated process of recognition and Categorization of instinctive information in text script is called Sentiment Analysis. And such categorization of positive tweets from negative tweets by machine learning models for Classification, text mining, text analysis and data visualization through Natural Language processing is called Twitter Sentiment Analysis.
-![image](https://user-images.githubusercontent.com/49767657/121781346-dbb30000-cbc1-11eb-809a-a016d7a6092f.png)
+![image taken from google](https://user-images.githubusercontent.com/49767657/121781346-dbb30000-cbc1-11eb-809a-a016d7a6092f.png)
 
 ## To Run this Project
 1. Please download the dataset from this link and keep it in main directory: [Twitter Sentiment Dataset](https://www.kaggle.com/kazanova/sentiment140)
