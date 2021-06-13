@@ -1,11 +1,11 @@
 # Pytorch-implementation-twitter-sentiment-analysis-using-RNN
 
 ## Introduction
-![image](https://user-images.githubusercontent.com/49767657/121810053-e54d6e00-cc7c-11eb-8463-47be344f7cd4.png)
+![image](https://user-images.githubusercontent.com/49767657/121810053-e54d6e00-cc7c-11eb-8463-47be344f7cd4.png) \
 Image Source: Google
 
 The automated process of recognition and Categorization of instinctive information in text script is called Sentiment Analysis. And such categorization of positive tweets from negative tweets by machine learning models for Classification, text mining, text analysis and data visualization through Natural Language processing is called Twitter Sentiment Analysis.
-![image taken from google](https://user-images.githubusercontent.com/49767657/121781346-dbb30000-cbc1-11eb-809a-a016d7a6092f.png)
+![image taken from google](https://user-images.githubusercontent.com/49767657/121781346-dbb30000-cbc1-11eb-809a-a016d7a6092f.png) \
 Image Source: Google
 
 ## Requirements
