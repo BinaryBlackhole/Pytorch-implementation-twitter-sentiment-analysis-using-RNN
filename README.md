@@ -73,6 +73,6 @@ The test accuracy is `68% which can be improved by using more data training more
 1. [Akurniawan-sentiment analysis](https://github.com/akurniawan/pytorch-sentiment-analysis) 
 2. [Bentrevett-sentiment analysis](https://github.com/bentrevett/pytorch-sentiment-analysis)
 
-
+**If you like this project please fork and star this project**
 [![GitHub forks](https://img.shields.io/github/forks/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)](https://github.com/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN/network)
 [![GitHub stars](https://img.shields.io/github/stars/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)](https://github.com/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN/stargazers)
