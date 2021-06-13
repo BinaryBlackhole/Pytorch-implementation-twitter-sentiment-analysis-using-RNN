@@ -6,6 +6,7 @@ The automated process of recognition and Categorization of instinctive informati
 Image Source: Google
 
 ## Requirements
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 This project was developed on Windows 10 using [Python 3.6.8](https://www.python.org/downloads/) \
 Clone this repository or download the codes after installing python and run **pip install -r requirement.txt** to install all the libraries required to run this project.
 
@@ -20,7 +21,7 @@ Clone this repository or download the codes after installing python and run **pi
 ## To Run this Project
 1. Please download the dataset from this link and keep it in main directory: [Twitter Sentiment Dataset](https://www.kaggle.com/kazanova/sentiment140)
 2. Put the csv file in the working directory and mention the full in the data_config.json
-3. in data_config you need to provide :
+3. in **data_config.json** you need to provide :
 
 	i) *"dataset_full_path":(# full path of the main dataset)* \
 	ii) *"num_neg_labels": (# number of negetive sample the dataset should contain)* \
@@ -30,7 +31,8 @@ Clone this repository or download the codes after installing python and run **pi
 	vi) *"num_training_sample": (# number of training samples in train.csv)* 
 		
 4. run python data_processing.py. This will prepare the data by splitting into train and test.
-5. To run this project run : Python train.py . To run train.py you need to provide certain params in project_config.py:
+5. To run this project run : Python train.py . To run train.py -\
+   you need to provide certain params in **project_config.json**:
 
 	i) *"data_path": "data",* \
 	ii)*"model_dir": "saved_model",* \
@@ -61,12 +63,16 @@ Clone this repository or download the codes after installing python and run **pi
 - The model has 1,952,805 trainable parameters
 
 For the limitation of RAM I have taken **20000 samples** from the main dataset which achieved **99.23% accuracy** in the train dataset.
-The test accuracy is `~68% which can be improved by using more data/ training more number of epoch.
+The test accuracy is `68% which can be improved by using more data training more number of epoch.
 
-**Contributors**
+## Contributors
 1. [Sagar Chakraborty](https://www.linkedin.com/in/binaryblackhole/)
 2. [Akshata Kulkarni](https://www.linkedin.com/in/akshata-kulkarni-3a0005161/)
 
-**References:**
+## References
 1. [Akurniawan-sentiment analysis](https://github.com/akurniawan/pytorch-sentiment-analysis) 
 2. [Bentrevett-sentiment analysis](https://github.com/bentrevett/pytorch-sentiment-analysis)
+
+
+[![GitHub forks](https://img.shields.io/github/forks/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)](https://github.com/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN/network)
+[![GitHub stars](https://img.shields.io/github/stars/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)](https://github.com/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN/stargazers)
