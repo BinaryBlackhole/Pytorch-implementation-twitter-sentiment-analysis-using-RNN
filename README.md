@@ -6,13 +6,14 @@ The automated process of recognition and Categorization of instinctive informati
 image source: Google
 
 ## Requirements
-This project was developed on Windows 10 using [Python 3.6.8](https://www.python.org/downloads/)
+This project was developed on Windows 10 using [Python 3.6.8](https://www.python.org/downloads/) \
 Clone this repository or download the codes after installing python and run pip install -r requirement.txt to install all the libraries required to run this project.
-	torch==1.8.1+cpu
-	torchtext==0.9.1
-	pytorch-ignite==0.4.4
-	pandas==1.0.5
-	numpy==1.19.3
+
+- **torch==1.8.1+cpu** \
+- **torchtext==0.9.1** \
+- **pytorch-ignite==0.4.4** \
+- **pandas==1.0.5** \
+- **numpy==1.19.3** \
 	
 
 
@@ -32,16 +33,16 @@ Clone this repository or download the codes after installing python and run pip 
 5. To run this project run : Python train.py . To run train.py you need to provide certain params in project_config.py:
 
 	i) *"data_path": "data",* \
-	ii)*"model_dir": "saved_model", *\
+	ii)*"model_dir": "saved_model",* \
 	iii) *"device": "-1",* \
-	iv) *"model_name": "sentiment_classifer_rnn_sagar.pt", *\
+	iv) *"model_name": "sentiment_classifer_rnn_sagar.pt",* \
 	v) *"embedding_dim": "100",* \
-	vi) *"hidden_dim": "256", * \
+	vi) *"hidden_dim": "256",* \
 	vii) *"output_dim": "1",* \
-	viii) *"batch_size": "64", * \
+	viii) *"batch_size": "64",* \
 	ix) *"max_vocab_size": "25000",* \
-	x)" *learning_rate": "1e-3", * \
-	xi) *"epoch": "20" *
+	x)" *learning_rate": "1e-3",* \
+	xi) *"epoch": "20"*
 
 **To change dataset/any parameters for training: project_config.json**
 
