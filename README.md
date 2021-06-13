@@ -3,17 +3,17 @@
 ## Introduction
 The automated process of recognition and Categorization of instinctive information in text script is called Sentiment Analysis. And such categorization of positive tweets from negative tweets by machine learning models for Classification, text mining, text analysis and data visualization through Natural Language processing is called Twitter Sentiment Analysis.
 ![image taken from google](https://user-images.githubusercontent.com/49767657/121781346-dbb30000-cbc1-11eb-809a-a016d7a6092f.png)
-image source: Google
+Image Source: Google
 
 ## Requirements
 This project was developed on Windows 10 using [Python 3.6.8](https://www.python.org/downloads/) \
 Clone this repository or download the codes after installing python and run pip install -r requirement.txt to install all the libraries required to run this project.
 
-- **torch==1.8.1+cpu** \
-- **torchtext==0.9.1** \
-- **pytorch-ignite==0.4.4** \
-- **pandas==1.0.5** \
-- **numpy==1.19.3** \
+- **torch==1.8.1+cpu** 
+- **torchtext==0.9.1** 
+- **pytorch-ignite==0.4.4** 
+- **pandas==1.0.5** 
+- **numpy==1.19.3** 
 	
 
 
