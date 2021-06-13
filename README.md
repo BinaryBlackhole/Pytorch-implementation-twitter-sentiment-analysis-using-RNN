@@ -7,7 +7,7 @@ Image Source: Google
 
 ## Requirements
 This project was developed on Windows 10 using [Python 3.6.8](https://www.python.org/downloads/) \
-Clone this repository or download the codes after installing python and run pip install -r requirement.txt to install all the libraries required to run this project.
+Clone this repository or download the codes after installing python and run **pip install -r requirement.txt** to install all the libraries required to run this project.
 
 - **torch==1.8.1+cpu** 
 - **torchtext==0.9.1** 
