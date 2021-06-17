@@ -11,7 +11,7 @@
 [![Python 3.6.8](https://img.shields.io/badge/python-3.6.8-blue.svg)](https://www.python.org/downloads/release/python-368/)
 [![torch 1.8.1](https://img.shields.io/badge/torch-1.8.1-orange.svg)](https://pypi.org/project/torch/1.8.1/)
 [![torch_text 0.9.1](https://img.shields.io/badge/torchtext-0.9.1-orange.svg)](https://pypi.org/project/torchtext/0.9.1/)
-[![pytorch_ignite 0.4.4](https://img.shields.io/badge/pytorch--ignite-0.4.4-orange.svg)](https://pypi.org/project/pytorch-ignite/0.4.4/) \
+[![pytorch_ignite 0.4.4](https://img.shields.io/badge/pytorch--ignite-0.4.4-orange.svg)](https://pypi.org/project/pytorch-ignite/0.4.4/) 
 
 
 [![Stargazers repo roster for @BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN](https://reporoster.com/stars/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)](https://github.com/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN/stargazers)
