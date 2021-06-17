@@ -46,7 +46,7 @@ Also I didn't used any virtual environments(not a fan of 🐍). So, if you use [
 
 
 ## To Run this Project
-1. Please download the dataset from [above](#requirements) and keep it in main directory. 
+1. Download the dataset from [above](#requirements) kaggle link and keep it in main directory. 
 2. Put the csv file in the working directory and mention the full in the **data_config.json**
 3. In **data_config.json** you need to provide :
 
