@@ -39,9 +39,9 @@ You can also click on the specific badges mentioned [above](#requirements) and d
 - **pandas==1.0.5** 
 - **numpy==1.19.3** 
 ### Optional
-I have used [<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>](https://www.jetbrains.com/pycharm/) in this project.
-Though I would recommend using [<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>](https://jupyter.org/) If you don't know how to use jupyter which is quite easy for beginners, go through this [link](https://www.tutorialspoint.com/jupyter/index.htm)
-Also I didn't used any virtual environments(not a fan of 🐍). So, if you use [Conda](https://www.anaconda.com/), that's your risk.
+I have used [<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>](https://www.jetbrains.com/pycharm/) in this project. I mostly prefer using Pycharm for building large end-to-end projects.
+Though for data analytics & visualizations I would recommend of using [<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>](https://jupyter.org/) If you don't know how to use jupyter which is quite easy for beginners, go through this [link](https://www.tutorialspoint.com/jupyter/index.htm)
+
 	
 
 
