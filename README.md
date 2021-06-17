@@ -29,7 +29,7 @@ Image Source: Google
 ## Requirements
 
 This project is developed on [<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />](https://www.microsoft.com/en-in/software-download/windows10) \
-Clone this repository or download the codes after installing the above [requirements](#requirements) and run `pip install -r requirement.txt` to install all the libraries required to run this project.
+Clone this repository or download after installing the above [requirements](#requirements) and run `pip install -r requirement.txt` to install all the libraries required to run this project.
 You can also click on the specific badges mentioned [above](#requirements) and download it as well.
 
 
