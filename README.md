@@ -6,14 +6,14 @@
 [<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />](https://pytorch.org/)
 [<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org/)
 [<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />](https://numpy.org/)
-
+[<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/kazanova/sentiment140)
 [![Python 3.6.8](https://img.shields.io/badge/python-3.6.8-blue.svg)](https://www.python.org/downloads/release/python-368/)
 [![torch 1.8.1](https://img.shields.io/badge/torch-1.8.1-orange.svg)](https://pypi.org/project/torch/1.8.1/)
 [![torch_text 0.9.1](https://img.shields.io/badge/torchtext-0.9.1-orange.svg)](https://pypi.org/project/torchtext/0.9.1/)
-[![pytorch_ignite 0.4.4](https://img.shields.io/badge/pytorch--ignite-0.4.4-orange.svg)](https://pypi.org/project/pytorch-ignite/0.4.4/)
+[![pytorch_ignite 0.4.4](https://img.shields.io/badge/pytorch--ignite-0.4.4-orange.svg)](https://pypi.org/project/pytorch-ignite/0.4.4/) \
 [![GitHub forks](https://img.shields.io/github/forks/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)](https://github.com/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN/network)
 [![GitHub stars](https://img.shields.io/github/stars/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)](https://github.com/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN/stargazers)
-[<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/kazanova/sentiment140)
+
 [![Stargazers repo roster for @BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN](https://reporoster.com/stars/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)](https://github.com/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN/stargazers)
 [![Forkers repo roster for @BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN](https://reporoster.com/forks/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)](https://github.com/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN/network/members)
 ## Introduction
