@@ -1,6 +1,6 @@
 <a id="requirements"></a>
-# Twitter Sentiment Analysis Using RNN
-## Categorization of positive tweets from negative tweets using RNN
+# Twitter Sentiment Analysis Using RNN - PyTorch
+
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />](https://pytorch.org/)
