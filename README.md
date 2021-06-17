@@ -78,7 +78,8 @@ Though for data analytics & visualizations I would recommend of using [<img alt=
 ## Experiment Details
 
 - epochs : **20**
-- Optimizer- **Adam Learning rate:** <img src="http://www.sciweavers.org/tex2img.php?eq=%201e%5E%7B-3%7D%20&bc=White&fc=Black&im=jpg&fs=18&ff=ccfonts,eulervm&edit=0" align="center" border="0" alt=" 1e^{-3} " width="52" height="25" /> 
+- Optimizer- **Adam**
+- Learning rate:<img src="http://www.sciweavers.org/tex2img.php?eq=%201e%5E%7B-3%7D%20&bc=White&fc=Black&im=jpg&fs=18&ff=ccfonts,eulervm&edit=0" align="center" border="0" alt=" 1e^{-3} " width="52" height="25" /> 
 - Loss function : **BCElogisticloss**
 - Train Acc: **99.72**
 - Validation accuracy: **67.68**
