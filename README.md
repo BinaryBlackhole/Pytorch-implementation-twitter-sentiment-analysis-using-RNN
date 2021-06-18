@@ -94,15 +94,15 @@ For the limitation of RAM I have taken **20000 samples** from the main dataset w
 
 The test accuracy is `68%` which can be improved by using more data training more number of epoch.
 
-## Authors
+## Author
 #### Sagar Chakraborty 
 [<img alt="Sagar_Chakraborty_LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/binaryblackhole/)
 [<img alt="Sagar_Chakraborty_Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#search/csagar963%40gmail.com)
 [<img alt="Sagar_Chakraborty_GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/BinaryBlackhole)
-#### Akshata Kulkarni
-[<img alt="Akshata_Kulkarni_LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshata-kulkarni-3a0005161/)
+
 ## Thanks to ALL the amazing contributors!
-[<img alt="akshata_Kulkarni" src="https://github.com/max-programming.png?size=115" width="115"><br><sub>@max-programming</sub>](https://github.com/max-programming)![GitHub Contributors Image](https://contrib.rocks/image?repo=BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)
+[<img alt="Akshata_Kulkarni" src="https://github.com/Akshata-Kulk1.png?size=100"/>](https://github.com/Akshata-Kulk1)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)
 
 ## References
 #### Akurniawan-sentiment analysis
