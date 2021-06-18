@@ -40,7 +40,8 @@ You can also click on the specific badges mentioned [above](#requirements) and d
 - **numpy==1.19.3** 
 ### IDE
 I have used [<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>](https://www.jetbrains.com/pycharm/) in this project. I mostly prefer using Pycharm for building large end-to-end projects.
-Though for data analytics & visualizations I would recommend of using [<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>](https://jupyter.org/) If you don't know how to use jupyter which is quite easy for beginners, go through this [link](https://www.tutorialspoint.com/jupyter/index.htm)
+Though for data analytics & visualizations I would recommend of using [<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>](https://jupyter.org/). If you don't know how to use jupyter which is quite easy for beginners, go through this [link](https://www.tutorialspoint.com/jupyter/index.htm)
+
 
 	
 
@@ -57,7 +58,7 @@ Though for data analytics & visualizations I would recommend of using [<img alt=
 	v)  `testset_fullpath`: **path to save test.csv**      \
 	vi) `num_training_sample`: **number of training samples in train.csv** 
 		
-4. *run python data_processing.py*: **This will prepare the data by splitting into train and test.**
+4. *run* `python data_processing.py`: **This will prepare the data by splitting into train and test.**
 5. To run this project,you need to provide certain parameters in **project_config.json**:
 
 	i) `data_path`: **data** \
@@ -69,7 +70,7 @@ Though for data analytics & visualizations I would recommend of using [<img alt=
 	vii) `output_dim`: **1** \
 	viii) `batch_size`: **64** \
 	ix) `max_vocab_size`: **25000** \
-	x)  `learning_rate`: **1e-3** \
+	x)  `learning_rate`: <img src="http://www.sciweavers.org/tex2img.php?eq=%201e%5E%7B-3%7D%20&bc=White&fc=Black&im=jpg&fs=18&ff=ccfonts,eulervm&edit=0" align="center" border="0" alt=" 1e^{-3} " width="52" height="25" /> \
 	xi) `epoch`: **20** 
 6. After performing the above steps Execute : `Python train.py`
 
@@ -94,13 +95,15 @@ For the limitation of RAM I have taken **20000 samples** from the main dataset w
 
 The test accuracy is `68%` which can be improved by using more data training more number of epoch.
 
-## Contributors
+## Author
 #### Sagar Chakraborty 
 [<img alt="Sagar_Chakraborty_LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/binaryblackhole/)
 [<img alt="Sagar_Chakraborty_Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#search/csagar963%40gmail.com)
 [<img alt="Sagar_Chakraborty_GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/BinaryBlackhole)
-#### Akshata Kulkarni
-[<img alt="Akshata_Kulkarni_LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshata-kulkarni-3a0005161/)
+
+## Thanks to ALL the amazing contributors!
+[<img alt="Akshata_Kulkarni" src="https://github.com/Akshata-Kulk1.png?size=100"/>](https://github.com/Akshata-Kulk1)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)
 
 ## References
 #### Akurniawan-sentiment analysis
