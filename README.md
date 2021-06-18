@@ -102,7 +102,7 @@ The test accuracy is `68%` which can be improved by using more data training mor
 #### Akshata Kulkarni
 [<img alt="Akshata_Kulkarni_LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshata-kulkarni-3a0005161/)
 ## Thanks to ALL the amazing contributors!
-![GitHub Contributors Image](https://contrib.rocks/image?repo=BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)
+[<img alt="akshata_Kulkarni" src="https://github.com/max-programming.png?size=115" width="115"><br><sub>@max-programming</sub>](https://github.com/max-programming)![GitHub Contributors Image](https://contrib.rocks/image?repo=BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)
 
 ## References
 #### Akurniawan-sentiment analysis
