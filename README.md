@@ -1,5 +1,5 @@
 <a id="requirements"></a>
-# Twitter Sentiment Analysis Using RNN - PyTorch
+# Twitter Sentiment Analysis Using LSTM - PyTorch (Modern Implementation)
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -8,10 +8,10 @@
 [<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />](https://numpy.org/)
 [<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/kazanova/sentiment140)
 
-[![Python 3.6.8](https://img.shields.io/badge/python-3.6.8-blue.svg)](https://www.python.org/downloads/release/python-368/)
-[![torch 1.8.1](https://img.shields.io/badge/torch-1.8.1-orange.svg)](https://pypi.org/project/torch/1.8.1/)
-[![torch_text 0.9.1](https://img.shields.io/badge/torchtext-0.9.1-orange.svg)](https://pypi.org/project/torchtext/0.9.1/)
-[![pytorch_ignite 0.4.4](https://img.shields.io/badge/pytorch--ignite-0.4.4-orange.svg)](https://pypi.org/project/pytorch-ignite/0.4.4/) 
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![torch 2.5+](https://img.shields.io/badge/torch-2.5+-orange.svg)](https://pytorch.org/)
+[![torchtext 0.18+](https://img.shields.io/badge/torchtext-0.18+-orange.svg)](https://pytorch.org/text/)
+[![pytorch_ignite 0.5+](https://img.shields.io/badge/pytorch--ignite-0.5+-orange.svg)](https://pytorch.org/ignite/) 
 
 
 [![Stargazers repo roster for @BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN](https://reporoster.com/stars/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN)](https://github.com/BinaryBlackhole/Pytorch-implementation-twitter-sentiment-analysis-using-RNN/stargazers)
@@ -26,6 +26,29 @@ The automated process of recognition and Categorization of instinctive informati
 ![project_workflow_example](https://user-images.githubusercontent.com/49767657/121781346-dbb30000-cbc1-11eb-809a-a016d7a6092f.png) \
 Image Source: Google
 
+## What's New in This Version
+
+This project has been **completely modernized** with the following improvements:
+
+### Technical Upgrades
+- **PyTorch 2.5+**: Upgraded from 1.8.1 to leverage latest features and performance improvements
+- **Modern Architecture**: LSTM-based model (replacing basic RNN) with:
+  - Bidirectional LSTM layers for better context understanding
+  - Dropout regularization to prevent overfitting
+  - Multi-layer architecture with deeper networks
+  - Improved word embeddings with padding support
+- **New Data Pipeline**: Migrated from deprecated `torchtext.legacy` to modern PyTorch `DataLoader`
+- **Type Hints**: Full type annotations for better code quality and IDE support
+- **Modern Python**: Uses Python 3.10+ features and best practices
+
+### Code Quality Improvements
+- Clean, well-documented code with docstrings
+- Proper logging throughout the application
+- Progress bars with `tqdm` for better training visibility
+- Better error handling and validation
+- Modular design with separate classes for Dataset, Vocabulary, and Trainer
+- Uses `pathlib` instead of `os.path` for file operations
+
 ## Requirements
 
 This project is developed on [<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />](https://www.microsoft.com/en-in/software-download/windows10) \
@@ -33,11 +56,12 @@ Clone this repository or download after installing the above [requirements](#req
 You can also click on the specific badges mentioned [above](#requirements) and download it as well.
 
 
-- **torch==1.8.1+cu** 
-- **torchtext==0.9.1** 
-- **pytorch-ignite==0.4.4** 
-- **pandas==1.0.5** 
-- **numpy==1.19.3** 
+- **torch>=2.5.0** - Modern PyTorch with improved performance
+- **torchtext>=0.18.0** - Latest text processing utilities
+- **pytorch-ignite>=0.5.1** - High-level training library
+- **pandas>=2.2.0** - Data manipulation and analysis
+- **numpy>=1.26.0** - Numerical computing
+- **tqdm>=4.66.0** - Progress bars for training loops 
 ### IDE
 I have used [<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>](https://www.jetbrains.com/pycharm/) in this project. I mostly prefer using Pycharm for building large end-to-end projects.
 Though for data analytics & visualizations I would recommend of using [<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>](https://jupyter.org/). If you don't know how to use jupyter which is quite easy for beginners, go through this [link](https://www.tutorialspoint.com/jupyter/index.htm)

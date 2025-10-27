@@ -1,5 +1,13 @@
-torch
-torchtext
-torch-ignite
-pandas
-numpy
+# Deep Learning
+torch>=2.5.0
+torchtext>=0.18.0
+
+# Data Processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Training & Evaluation
+pytorch-ignite>=0.5.1
+
+# Utilities
+tqdm>=4.66.0
